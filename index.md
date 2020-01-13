@@ -399,7 +399,6 @@ Are you ready to obtain or spend some Nano? Find your market or merchant here.
 
 ### Wallets
 * [**Natrium** - Android,iOS](https://natrium.io/)
-* [**Canoe** - OSX,Win,Linux,iOS,Android,WinPhone](https://getcanoe.io/)
 * [**Nanovault** - Web,Linux,Mac](https://nanovault.io/)
 * [**Ninjavault** - Web](https://vault.mynano.ninja/)
 * [**Nanovault #2** - Web](https://vault.nanocrawler.cc/)
